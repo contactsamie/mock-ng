@@ -1,4 +1,4 @@
-mock-ng
+mock-ng - Just another way to make your TDD more friendly and attractive in angular!
 =======
 
 AngularJs TDD Module With mocking Service To Mock  easily do mocking In Yeoman Jasmine Setup
