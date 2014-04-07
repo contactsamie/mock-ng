@@ -3,7 +3,7 @@ mock-ng - Just another way to make your TDD more friendly and attractive in angu
 
 AngularJs TDD Module With mocking Service To Mock  easily do mocking In Yeoman Jasmine Setup
 
-
+```javascript
 
 npm install
 
@@ -15,6 +15,7 @@ npm install karma-chrome-launcher --save-dev
 
 grunt
 
+```
 Done!
 
 
