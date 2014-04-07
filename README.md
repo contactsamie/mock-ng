@@ -18,7 +18,7 @@ grunt
 Done!
 
 
-## Example Usage :
+## Example Usage (using Jasmine + in Karma):
 
 
 
@@ -42,5 +42,9 @@ Done!
 ```
 
 
+## And :
 
+You can also mock other services as well ....
+
+## Again, simply allowing you to focus on the logic of your test rather than on its plumbing !
 
