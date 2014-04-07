@@ -3,7 +3,7 @@ mock-ng
 - Just another way to make your TDD more friendly and attractive in angular!
 
 
-##[ The more easily you are able to write tests, the more tests you will easily write ... Samuel Bamgboye, 4/4/2014 ]
+##[ The more easily you are able to write tests, the more tests you will easily write ... Sam 4/4/2014 ]
 
 
 AngularJs TDD Module With mocking Service To Mock  easily do mocking In Yeoman Jasmine Setup
